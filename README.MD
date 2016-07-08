@@ -2,7 +2,7 @@
 
 ## Accordion / Toggle
 
-<a href="http://www.mraffaele.com/labs/css-only-accordions/" target="_blank">Demo</a>
+<a href="http://www.mraffaele.com/labs/css-only" target="_blank">Demo</a>
 ## Carousel
 
 [Demo 1](http://codepen.io/SitePoint/pen/MyPVdK)
